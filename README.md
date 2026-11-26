@@ -1,6 +1,6 @@
 # Model Glider Low-Cost Data Logger & Flight Dataset
 
-An interactive **Google Colab** engineering tool built with `ipywidgets`, `NumPy`, `Pandas`, and `Matplotlib` to simulate low-cost data logger flights for a **model glider** and convert each flight into a structured **altitude (`[m]`)** or **vertical acceleration (`[g]`)** time-series dataset[cite: 8].
+An interactive **Google Colab** engineering tool built with `ipywidgets`, `NumPy`, `Pandas`, and `Matplotlib` to simulate low-cost data logger flights for a **model glider** and convert each flight into a structured **altitude (`[m]`)** or **vertical acceleration (`[g]`)** time-series dataset.
 
 ## Overview
 
